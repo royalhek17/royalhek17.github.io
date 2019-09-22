@@ -1,7 +1,7 @@
 #head{
 		background-color:#01e2ff96;  /*sky-light*/
 		border:20px;
-		height:22%;
+		height:135px;
 		border-radius: 3px;
 		margin-bottom: 6px;
 }
@@ -130,8 +130,8 @@ body
 
 #img img
 {
-	width:40%;
-	height:80%;
+	width:350px;
+	height:350px;
 	float: right;
 	margin-right: 15%;
 	margin-top:4%;
